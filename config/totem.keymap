@@ -60,10 +60,10 @@
 
         nav {
             bindings = <
-        &kp LG(C)       &kp LG(V)                &kp LG(LEFT_BRACKET)   &kp LG(RIGHT_BRACKET)      &trans    &trans    &kp PG_DN       &kp PG_UP  &bt BT_SEL 0  &trans
-        &kp LEFT_SHIFT  &hm LEFT_CONTROL C_MUTE  &hm LEFT_ALT C_VOL_DN  &hm LEFT_COMMAND C_VOL_UP  &trans    &kp LEFT  &kp DOWN        &kp UP     &kp RIGHT     &trans
-&trans  &trans          &trans                   &trans                 &kp SPACE                  &trans    &trans    &kp C_PREVIOUS  &kp C_PP   &kp C_NEXT    &trans  &trans
-                                                 &trans                 &trans                     &trans    &trans    &trans          &trans
+        &kp LG(C)       &kp LG(V)                &kp LG(LEFT_BRACKET)   &kp LG(RIGHT_BRACKET)      &trans    &kp ESCAPE  &kp PG_DN       &kp PG_UP  &bt BT_SEL 0  &trans
+        &kp LEFT_SHIFT  &hm LEFT_CONTROL C_MUTE  &hm LEFT_ALT C_VOL_DN  &hm LEFT_COMMAND C_VOL_UP  &trans    &kp LEFT    &kp DOWN        &kp UP     &kp RIGHT     &trans
+&trans  &trans          &trans                   &trans                 &kp SPACE                  &trans    &trans      &kp C_PREVIOUS  &kp C_PP   &kp C_NEXT    &trans  &trans
+                                                 &trans                 &trans                     &trans    &trans      &trans          &trans
             >;
         };
 
