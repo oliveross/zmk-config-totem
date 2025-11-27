@@ -1,5 +1,5 @@
-#define ZMK_POINTING_DEFAULT_MOVE_VAL 1500
-#define ZMK_POINTING_TIME_TO_MAX 800
+#define ZMK_POINTING_DEFAULT_MOVE_VAL 1800
+#define ZMK_POINTING_TIME_TO_MAX 1200
 
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
